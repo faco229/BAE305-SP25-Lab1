@@ -29,7 +29,7 @@ Our results showed that measured values typically deviate slightly from expected
 
 ### Measuring Capacitor with Multimeter
 
-- ![Figure 1.1 - Measuring Capacitor](fig1.1.png)
+- ![Figure 1.1 - Measuring Capacitor](Fig1.1.jpg)
 
 - ![Figure 1.2 - Overview of Breadboard]()
 
