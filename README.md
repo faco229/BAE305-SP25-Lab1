@@ -75,7 +75,7 @@ Knowing our expected results as they were given to us, we had to begin measuring
 
 | Capacitor Label | Expected Capacitance (F) | Expected Min (F) | Expected Max (F) | Measured Capacitance (F) | In Spec? (Y/N) |
 |-----------------|--------------------------|------------------|------------------|--------------------------|----------------|
-| C1* | 100µ | FILL OUT | FILL OUT | 0µ | Y |
+| C1* | 100µ | 90µ | 110 µ | 0µ | Y |
 | C2  | 10E2p | 0.9n | 1.1n | 1.40n | N |
 | C3  | 22n | 20.9n | 23.1n | 0.41n | N |
 | C4  | 231 | 0.8µ | 1.8µ | 1.21µ | Y |
