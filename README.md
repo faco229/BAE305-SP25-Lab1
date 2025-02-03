@@ -115,6 +115,9 @@ Discussion Question 2: Do the instruments agree? Why?
 
 The first three procedures provided similar measure results, but the Fluke DMM readings were the outlier. This could have occurred due to the Fluke DMM’s readings being less precise than the oscilloscope’s. This is because the Fluke DMM takes average measurements overtime, which could change the curve and differ them from the other 3 methods. 
 
+### Citations
+
+
  
 
 ## Conclusion
