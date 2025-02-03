@@ -29,15 +29,15 @@ Our results showed that measured values typically deviate slightly from expected
 
 ### Measuring Capacitor with Multimeter
 
-- ![Figure 1.1 - Measuring Capacitor](figure1.1.png)
+- ![Figure 1.1 - Measuring Capacitor](fig1.1.png)
 
-- ![Figure 1.2 - Overview of Breadboard](figure1.2.png)
+- ![Figure 1.2 - Overview of Breadboard]()
 
-- ![Figure 1.3 - Multimeter Displaying Measured Capacitance](figure1.3.png)
+- ![Figure 1.3 - Multimeter Displaying Measured Capacitance]()
 
-- ![Figure 1.4 - Function Generator](figure1.4.png)
+- ![Figure 1.4 - Function Generator]()
 
-- ![Figure 1.5 - Oscilloscope Displaying Measured Frequencies](figure1.5.png)
+- ![Figure 1.5 - Oscilloscope Displaying Measured Frequencies]()
 
  
 
