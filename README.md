@@ -27,6 +27,8 @@ Our results showed that measured values typically deviate slightly from expected
 
 ## Methods/Tests
 
+Knowing our expected results as they were given to us, we had to begin measuring the different parameters. We started off with resistance. To understand the resistance values, one must read the colors of the resister from right to left. Each color has a different number, multiplier, or percentage of uncertainty associated with it. After we read all the expected resistance values we began measuring the resistance with the multimeter. To measure resistance with the multimeter one must connect the multimeter to the opposites sides of the resistor and ensure that the multimeter is set to read ohms. After recording our measured resistances, we began configuring the expected amount for our capacitors and then measuring the capacitors too. To measure the capacitance, the multimeter must be set to read in farads. Typically, this value is very small, so it is common to see Pico or nano-Farads. Next, we measured our expected voltages through the direct current power system or DCPS. To measure the voltage, we had to ensure the multimeter was set for volts and that the connecting wires were plugged into the correct Aux. plug-ins.
+
 ### Measuring Capacitor with Multimeter
 
 - ![Figure 1.1 - Measuring Capacitor](Fig1.1.jpg)
