@@ -35,17 +35,27 @@ Knowing our expected results as they were given to us, we had to begin measuring
 >Measuring Capacitor
 
 
+
+
 - ![Figure 1.2 - Overview of Breadboard](Fig1.2.jpg)
 >Overview of Breadboard
+
+
 
 - ![Figure 1.3 - Multimeter Displaying Measured Capacitance](Fig1.3.jpg)
 >Multimeter Displaying Measured Capacitance
 
+
+
 - ![Figure 1.4 - Function Generator](Fig1.4.jpg)
 >Function Generator
 
+
+
 - ![Figure 1.5 - Oscilloscope Displaying Measured Frequencies](Fig1.5.jpg)
 >Oscilloscope Displaying Measured Frequencies
+
+
  
 
 ## Results
