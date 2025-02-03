@@ -117,12 +117,12 @@ Discussion Question 2: Do the instruments agree? Why?
 
 The first three procedures provided similar measure results, but the Fluke DMM readings were the outlier. This could have occurred due to the Fluke DMM’s readings being less precise than the oscilloscope’s. This is because the Fluke DMM takes average measurements overtime, which could change the curve and differ them from the other 3 methods. 
 
-### Citations
-ChatGPT. "Assistance with Formatting a Lab Report in Markdown for GitHub." OpenAI, 3 Feb. 2025, https://openai.com
 
  
 
 ## Conclusion
 
-From our measurements, we observed that resistors and capacitors generally stayed within expected tolerance ranges, but some values deviated significantly. Voltage outputs from the DCPS were very accurate. Function generator frequency measurements were consistent, except for the Fluke DMM, which showed lower accuracy due to averaging effects. The oscilloscope provided the most precise frequency measurements.
+From our measurements, we observed that while most resistor and capacitor values were within expected tolerances, some measurements deviated significantly, likely due to component tolerances, measurement limitations, or overall user error. The voltage outputs from the DCPS closely matched the expected values, which allowed us to confirm the accuracy of the power supply. In addition, the function generator, or "FG", frequency measurements were consistent across multiple methods, with one exception. The Fluke DMM, showed discrepancies due to its averaging characteristics, which most likely threw off our data. Overall, this lab provided valuable hands-on experience with basic electrical instruments, further teaching the importance of precision and proper measurement techniques when dealing with circuit analysis.
 
+### Citations
+ChatGPT. "Assistance with Formatting a Lab Report in Markdown for GitHub." OpenAI, 3 Feb. 2025, https://openai.com
