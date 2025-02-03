@@ -77,9 +77,12 @@ Our results showed that measured values typically deviate slightly from expected
 | 7.0 | 7.01 |
 | 12.0 | 12.01 |
 
- a. Do the instruments agree with the expected value?
+a. Do the instruments agree with the expected value?
+
 C1 and C4 measured capacitances seem to agree with the expected results. Though C1 had measurement issues as stated under the table, it can be inferred it would meet the expected values. For C2 and C3, these are not in spec of our expected results, even with their tolerances
+
 b. Does polarity affect the measurement of the electrolytic capacitor?
+
 Yes, polarity can significantly impact the capacitance readings. If a measurement is done using the incorrect polarity, it could damage the capacitor or cause incorrect readings. Looking at our measured data, this could be the reason our C2 and C3 readings were off and not compliant with the expected results. 
 
 
@@ -104,6 +107,7 @@ Yes, the voltage on the power supply is equal to the measured voltage for all th
 | Fluke DMM | 2089 | 0.087 |
 
 Discussion Question 2: Do the instruments agree? Why?
+
 The first three procedures provided similar measure results, but the Fluke DMM readings were the outlier. This could have occurred due to the Fluke DMM’s readings being less precise than the oscilloscope’s. This is because the Fluke DMM takes average measurements overtime, which could change the curve and differ them from the other 3 methods. 
 
  
